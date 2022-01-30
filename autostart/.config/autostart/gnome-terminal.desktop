@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal -x zsh -c "sleep 2; tmux"
+# Exec=gnome-terminal -x zsh -c "sleep 2; /home/angelo/.local/bin/tmuxp load ~/.tmux/main_session.yaml"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Terminal
+Name=Terminal
+Comment[en_US]=
+Comment=

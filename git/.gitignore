@@ -1,0 +1,17 @@
+*.swp
+*~
+cover
+.coverage
+test_coverage.xml
+test_results.xml
+.cache
+*.pyc
+dist/
+*.egg
+*.egg-info
+__pycache__
+*.vim
+geckodriver.log
+.pytest_cache
+libsqliteicu.so
+public_suffix_list.dat

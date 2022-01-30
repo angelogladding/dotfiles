@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=devilspie2 -f /home/angelo/.devilspie2
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Devil's Pie
+Name=Devil's Pie
+Comment[en_US]=
+Comment=

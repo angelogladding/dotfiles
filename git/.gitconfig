@@ -1,0 +1,17 @@
+[user]
+    name = Angelo Gladding
+    email = angelo@lahacker.net
+    # signingkey = FACEBEEF
+[core]
+    excludesfile = ~/.gitignore
+[help]
+    autocorrect = 1
+[color]
+    ui = true
+# [commit]
+#     gpgsign = true
+# [tag]
+#     forceSignAnnotaed = true
+[push]
+    default = simple
+    followTags = true

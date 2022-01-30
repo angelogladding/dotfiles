@@ -1,0 +1,9 @@
+stow autostart
+stow devilspie2
+stow dircolors
+stow git
+stow nvim
+stow openvpn
+stow pypoetry
+stow tmux
+stow zsh
